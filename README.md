@@ -6,7 +6,7 @@
 Welcome BDI 2018 attendees! If you're here at my talk, *Machine Learning from Scratch*, then you've come to the right place. I've prepared a jupyter notebook with some starter code to follow along with. If you already have Anaconda installed on your computer, please feel free to download or clone the notebook [here, (add link to notebook!)](), and run it on your own machine. If not, there are two simple ways to access and execute the code straight from your browser.
 
 ### Option 1: Google Colab
-1. head to [colab.research.google.com](colab.research.google.com). 
+1. head to [colab.research.google.com](www.colab.research.google.com). 
 2. Once the notebook loads, in the top left corner, click `file`, choose `upload notebook`
 
     ![colab](Figures/colab.png)
@@ -23,5 +23,12 @@ Welcome BDI 2018 attendees! If you're here at my talk, *Machine Learning from Sc
 
 The JupyterHub for our repowill be launched by clicking the following "badge":  [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/collinprather/BDI-2018-JupyterHub/master)
 
+
+---
+---
+
+### My original analysis
+
+If you are interested in the notebooks where I performed my data preparation, they can be found [here](https://github.com/collinprather/Big-Data-Ignite-2018/blob/master/data_preprocessing.ipynb).
 
 *note: Insert a link to the original dataset and possibly my notebooks where I perform my analysis
