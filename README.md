@@ -7,6 +7,7 @@ Welcome BDI 2018 attendees! If you're here at my talk, *Machine Learning from Sc
 
 ### Option 1: Google Colab
 1. Head to [colab.research.google.com](https://colab.research.google.com/notebooks/welcome.ipynb). 
+1. <a href="https://colab.research.google.com/notebooks/welcome.ipynb" target="_blank">Hello, world!</a>
 2. Once the notebook loads, in the top left corner, click `file`, choose `upload notebook`
 
     ![colab](Figures/colab.png)
