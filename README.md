@@ -19,7 +19,7 @@ Welcome BDI 2018 attendees! If you're here at my talk, *Machine Learning from Sc
 
 
 ### Option 2: mybinder.org
-[Binder](https://mybinder.org) is powered by [Docker](https://www.docker.com) and [JupyterHub](https://jupyterhub.readthedocs.io/en/stable/). It allows you to run code in a notebook without any installation whatsoever. If you're willing to wait about 3-5 minutes for it to load, it gives you a true Jupyter feeling notebook (Google's colab just feels a bit different.)
+[Binder](https://mybinder.org) is powered by [Docker](https://www.docker.com) and [JupyterHub](https://jupyterhub.readthedocs.io/en/stable/). It allows you to run code in a notebook without any installation whatsoever. If you're willing to wait about 1-3 minutes for it to load, it gives you a true Jupyter feeling notebook (Google's colab just feels a bit different.)
 
 The JupyterHub for our repo will be launched by clicking the following "badge":  [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/collinprather/BDI-2018-JupyterHub/master)
 
